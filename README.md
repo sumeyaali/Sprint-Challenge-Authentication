@@ -44,11 +44,20 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] What does bcrypt do to help us store passwords in a secure manner.
 
-    
+    It hashes the password text according to the number of times you state and it validates the credentials by comparing the text password to the hashed password the user created when they registered. 
+
 
 - [ ] What does bcrypt do to slow down attackers?
 
+    It goes through a number of hashing rounds to distort the structure of the credentials. 
+
 - [ ] What are the three parts of the JSON Web Token?
+
+        -The header
+        -The payload
+        -The signature
+
+
 
 ## Minimum Viable Product
 
