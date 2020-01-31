@@ -40,7 +40,11 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] What is the purpose of using _sessions_?
 
+    Sessions are a way to save authenticated information so there's no need for the client to re-enter login credentials on every request.
+
 - [ ] What does bcrypt do to help us store passwords in a secure manner.
+
+    
 
 - [ ] What does bcrypt do to slow down attackers?
 
